@@ -72,8 +72,6 @@ I don't just move data — I make it trustworthy, fast, and useful.
 #### [Real-Time Fraud Detection Pipeline](https://github.com/narenp18)
 > **Kafka + Spark Structured Streaming** pipeline with PySpark and SQL processing transaction events in real time — engineered for fraud-pattern detection across account, merchant, and payment behavior signals.
 
-#### [Cloud Lakehouse & Data Warehouse Modernization](https://github.com/narenp18)
-> End-to-end lakehouse build on **AWS S3, Glue, Delta Lake, Airflow, Redshift, and Snowflake** with dbt modeling, SCD Type 2 logic, and incremental load optimization.
 
 #### [Big Data Sentiment & Trend Analytics Pipeline](https://github.com/narenp18)
 > **Hadoop, MapReduce, Hive, and Java** pipeline processing 1M+ text records — 30% runtime reduction through mapper/reducer and partition tuning.
