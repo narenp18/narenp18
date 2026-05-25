@@ -1,6 +1,6 @@
 # Hey, I'm Naren Prodduturi 👋
 
-**Data Engineer | ☁️ Cloud-Native Pipeline Architect | Real-Time Streaming | AWS & Azure Specialist**
+**Data Engineer | 🌩️ Cloud Optimizer | ML-Driven Architect | Pipeline Perfectionist**
 
 📍 Charlotte, NC (Open to Relocate) &nbsp;|&nbsp; 📧 nproddut18@gmail.com &nbsp;|&nbsp; [GitHub](https://github.com/narenp18)
 
