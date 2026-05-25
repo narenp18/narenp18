@@ -89,8 +89,8 @@ I don't just move data — I make it trustworthy, fast, and useful.
 
 ### 📜 Certifications
 
-- 🏅 AWS Certified Data Engineer– Associate (https://www.credly.com/badges/ee42429a-d5c1-4bd2-9010-cede97dd2451/public_url)
-- 🏅 Databricks Certified Data Engineer Associate (https://credentials.databricks.com/bb382149-fac4-48d7-835c-2ee9e2de2cce#acc.8CyY0cFS )
+- 🏅 [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/ee42429a-d5c1-4bd2-9010-cede97dd2451/public_url)
+- 🏅 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/bb382149-fac4-48d7-835c-2ee9e2de2cce#acc.8CyY0cFS)
 
 
 ---
