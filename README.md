@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a **Data Engineer with 3+ years of experience in building production-grade data pipelines, cloud data platforms, and analytics-ready datasets across banking, fraud monitoring, and product telemetry domains.
+I'm a **Data Engineer with 3+ years of experience** in building production-grade data pipelines, cloud data platforms, and analytics-ready datasets across banking, fraud monitoring, and product telemetry domains.
 
 Currently pursuing my **MS in Computer Science (Data Science Concentration)** at **UNC Charlotte**, I specialize in designing scalable batch and streaming workflows on **AWS and Azure**, engineering warehouse models that power real-time dashboards, and enforcing end-to-end data quality from ingestion to reporting.
 
@@ -69,9 +69,11 @@ I don't just move data — I make it trustworthy, fast, and useful.
 #### [RAG-Based AI Resume Screener & Chat Assistant](https://github.com/narenp18/RAG-Based-AI-Resume-Screener-and-Chat-Assistant-with-Agentic-Reasoning)
 > Intelligent resume-job matcher using **LangChain, FAISS, OpenAI API, and Streamlit** — 95% skill-to-JD alignment accuracy with sub-300ms retrieval latency across 1000+ semantic chunks.
 
+#### [Cloud Lakehouse & Data Warehouse Modernization Platform](https://github.com/narenp18/cloud-lakehouse-dw-modernization)
+> End-to-end lakehouse on **AWS S3, Glue, Delta Lake, Airflow, Redshift, and Snowflake** — dbt star schema modeling, SCD Type 2 logic, and incremental load optimization boosting dashboard performance by **40%**.
+
 #### [Real-Time Fraud Detection Pipeline](https://github.com/narenp18)
 > **Kafka + Spark Structured Streaming** pipeline with PySpark and SQL processing transaction events in real time — engineered for fraud-pattern detection across account, merchant, and payment behavior signals.
-
 
 #### [Big Data Sentiment & Trend Analytics Pipeline](https://github.com/narenp18)
 > **Hadoop, MapReduce, Hive, and Java** pipeline processing 1M+ text records — 30% runtime reduction through mapper/reducer and partition tuning.
@@ -89,7 +91,6 @@ I don't just move data — I make it trustworthy, fast, and useful.
 
 - 🏅 [AWS Certified Data Engineer – Associate](https://www.credly.com/badges/ee42429a-d5c1-4bd2-9010-cede97dd2451/public_url)
 - 🏅 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/bb382149-fac4-48d7-835c-2ee9e2de2cce#acc.8CyY0cFS)
-
 
 ---
 
