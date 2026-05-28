@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a **Data Engineer with experience in building production-grade data pipelines, cloud data platforms, and analytics-ready datasets across banking, fraud monitoring, and product telemetry domains.
+I'm a **Data Engineer with 3+ years of experience in building production-grade data pipelines, cloud data platforms, and analytics-ready datasets across banking, fraud monitoring, and product telemetry domains.
 
 Currently pursuing my **MS in Computer Science (Data Science Concentration)** at **UNC Charlotte**, I specialize in designing scalable batch and streaming workflows on **AWS and Azure**, engineering warehouse models that power real-time dashboards, and enforcing end-to-end data quality from ingestion to reporting.
 
